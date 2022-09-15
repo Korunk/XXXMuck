@@ -1,0 +1,9 @@
+.main-title,
+.text {
+  text-align: center;
+  margin: 50px;
+}
+
+.text {
+  color: grey;
+}
